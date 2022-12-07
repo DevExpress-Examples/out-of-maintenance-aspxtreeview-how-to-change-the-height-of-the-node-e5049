@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxTreeView;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     protected void tv_Load(object sender, EventArgs e) {
